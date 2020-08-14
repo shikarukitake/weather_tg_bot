@@ -1,7 +1,7 @@
 # Weather telegram bot
 Simple telegram bot using pytelegramapi!
 
-# Description for Yandex CTO challenge:
+# Description:
 
 * **Название проекта:** Умный сервис прогноза погоды
 * **Язык программирования и технологии:** Для создания проекта использовался python, а также библиотека для взаимодействия с API Telegram (**pytelegrambotapi**) и стандартная библиотека **requests**
